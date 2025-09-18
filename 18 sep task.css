@@ -1,0 +1,25 @@
+.container{
+    border: 3px solid;
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+
+}
+.nav-container{
+    background-color: black;
+     color: white;
+     padding: 5px;
+     /* font-size: xx-large; */
+     display: flex;
+     justify-content: space-between;
+}
+.nav-container2{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    /* font-size: xx-large; */
+    display: flex;
+    justify-content: space-between;
+    
+}
